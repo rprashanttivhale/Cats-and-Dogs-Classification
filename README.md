@@ -27,4 +27,5 @@ using Conv2D , Maxpooling,Dropout,Flatten etc.
  # Save model using save('your project name.h5')
  
  
-# using matplotlib use can see the graphical representation
+## using matplotlib use can see the graphical representation
+
