@@ -1,5 +1,5 @@
 # Cats-and-Dogs-Classification
-![alt text](https://drive.google.com/drive/folders/1CXf21MOUyzcQDot_rOs_pjvawiH6ZrEq)
+![alt text](c1.jpg)
 Cats and Dogs Classification using Convnet
 # Download Cats and Dogs Datasets from kaggle or github 
 This datasets are containt 60000 images.
